@@ -1,4 +1,4 @@
-# Infographic about ungulates in harvest blocks
+# Infographic about moose response to linear features
 
 
 ## About

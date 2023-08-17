@@ -53,7 +53,7 @@ Example of my design style:
 
 ## Expected compensation
 
-Between \$770 - \$870, with around 30-35 working hours expected for the work 
+Between \$800 - \$890, with around 30-35 working hours expected for the work 
 
 | Hours | Task |
 | --- | --- |

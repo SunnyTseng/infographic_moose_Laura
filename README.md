@@ -16,7 +16,9 @@ to linear features", which is published in 2023 (Finnegan et al., 2023). The goa
 
 ## Product 
 
+### version 1 (2023.08.31)
 
+![](./docs/infographic_moose_Laura_v1.jpg)
 
 
 ## Time line

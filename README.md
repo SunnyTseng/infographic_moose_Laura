@@ -16,6 +16,12 @@ to linear features", which is published in 2023 (Finnegan et al., 2023). The goa
 
 ## Product 
 
+### version 3 (2023.09.27)
+
+File can be downloaded in [PDF](./docs/infographic_moose_Laura_v3.pdf), [JPG](./docs/infographic_moose_Laura_v3.jpg), or [PNG](./docs/infographic_moose_Laura_v3.png) format. 
+
+![](./docs/infographic_moose_Laura_v3.jpg)
+
 ### version 2 (2023.09.22)
 
 File can be downloaded in [PDF](./docs/infographic_moose_Laura_v2.pdf), [JPG](./docs/infographic_moose_Laura_v2.jpg), or [PNG](./docs/infographic_moose_Laura_v2.png) format. 
